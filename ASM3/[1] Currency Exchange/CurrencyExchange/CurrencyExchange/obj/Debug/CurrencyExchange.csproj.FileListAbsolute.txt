@@ -1,0 +1,9 @@
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\inout.txt
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\sample.txt
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\Mostafa\Downloads\ASM3\ASM3\[1] Currency Exchange\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
